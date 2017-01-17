@@ -10,12 +10,12 @@ end_of_line = lf
 insert_final_newline = true
 
 # Indentation override for all JS under lib directory
-[*.{js,json}]
+[**.{js,json,html}]
 indent_style = space
 indent_size = 2
 
 # 4 space indentation
-[*.py]
+[**.py]
 indent_style = space
 indent_size = 4
 
