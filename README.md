@@ -1,0 +1,2 @@
+# commonConfig
+common config file
